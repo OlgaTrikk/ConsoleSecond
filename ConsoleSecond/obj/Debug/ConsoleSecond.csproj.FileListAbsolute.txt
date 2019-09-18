@@ -1,0 +1,7 @@
+c:\users\olga.trikk\source\repos\ConsoleSecond\ConsoleSecond\bin\Debug\ConsoleSecond.exe.config
+c:\users\olga.trikk\source\repos\ConsoleSecond\ConsoleSecond\bin\Debug\ConsoleSecond.exe
+c:\users\olga.trikk\source\repos\ConsoleSecond\ConsoleSecond\bin\Debug\ConsoleSecond.pdb
+c:\users\olga.trikk\source\repos\ConsoleSecond\ConsoleSecond\obj\Debug\ConsoleSecond.csprojAssemblyReference.cache
+c:\users\olga.trikk\source\repos\ConsoleSecond\ConsoleSecond\obj\Debug\ConsoleSecond.csproj.CoreCompileInputs.cache
+c:\users\olga.trikk\source\repos\ConsoleSecond\ConsoleSecond\obj\Debug\ConsoleSecond.exe
+c:\users\olga.trikk\source\repos\ConsoleSecond\ConsoleSecond\obj\Debug\ConsoleSecond.pdb
